@@ -20,7 +20,7 @@ Make sure you have Go installed on your machine. If not, you can download it [he
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/RupeshHacker/go-chatting-app
+    git clone https://github.com/AniketNS/go-chatting-app
     ```
 
 2. Change into the project directory:
